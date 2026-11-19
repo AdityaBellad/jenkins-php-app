@@ -1,7 +1,7 @@
 
 <?php
-$message = "Welcome to my CI/CD project!";
-$version = "Version 1.0";
+$message = "Welcome to my Updated  CI/CD project!";
+$version = "Version 2.0";
 ?>
 
 <!DOCTYPE html>
